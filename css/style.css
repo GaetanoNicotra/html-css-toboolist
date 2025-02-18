@@ -30,4 +30,17 @@ main{
 
 .list{
     list-style-type: none;
+    margin-bottom: 25px;
+}
+
+.tag-blu{
+    background-color: rgb(6, 132, 250);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
+
+}
+
+.spaziatura{
+    padding-bottom: 12px;
 }
