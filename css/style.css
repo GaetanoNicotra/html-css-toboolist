@@ -38,9 +38,43 @@ main{
     color: #ffffff;
     border-radius: 14px;
     padding: 6px 13px;
-
 }
 
 .spaziatura{
     padding-bottom: 12px;
+}
+
+.tag-viola{
+    background-color: rgb(125, 74, 207);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
+}
+
+.tag-verde{
+    background-color: rgb(62, 211, 136);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
+}
+
+.tag-arancio{
+    background-color: rgb(224, 134, 15);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
+}
+
+.tag-fucsia{
+    background-color: rgb(223, 31, 197);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
+}
+
+.tag-verdino{
+    background-color: rgb(169, 235, 15);
+    color: #ffffff;
+    border-radius: 14px;
+    padding: 6px 13px;
 }
