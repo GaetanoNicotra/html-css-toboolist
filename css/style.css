@@ -11,6 +11,8 @@ body{
 header{
     background-color: white;
     height: 60px;
+    padding-left: 20px;
+    padding-top: 10px;
 }
 h1{
     display: inline-block;
@@ -23,14 +25,13 @@ h1{
 }
 
 main{
-    width: 500px;
+    width: 1500px;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
 }
 
 .contenitore1{
-    margin-top: 60px;
-
+    margin-top: 50px;
 }
 
 
@@ -40,7 +41,7 @@ main{
     color: #ffffff;
     border-radius: 5px;
     padding: 6px 13px;
-    margin: 12px 12px;
+    margin: 12px 12px 22px 43px;
 }
 
 .botton-gray{
