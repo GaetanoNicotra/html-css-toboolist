@@ -1,0 +1,33 @@
+
+h1{
+    display: inline-block;
+    font-size: 38px;
+}
+
+.vertical-aling{
+    vertical-align: middle;
+}
+
+
+main{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.botton-blu{
+    background-color: rgb(6, 132, 250);
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 6px 13px;
+}
+
+.botton-gray{
+    color: rgb(155, 152, 152);
+    border-radius: 5px;
+    border-radius: 5px;
+    padding: 6px 13px;
+}
+
+.list{
+    list-style-type: none;
+}
