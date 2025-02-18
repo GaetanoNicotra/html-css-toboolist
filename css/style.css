@@ -91,4 +91,18 @@ main{
     padding: 6px 13px;
 }
 
+.cerchio{
+    color: green;
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    border: 1px solid;
+}
 
+.cerchio-rosso{
+    color: rgb(255, 0, 0);
+    border-radius: 50%;
+    width: 18px;
+    height: 18px;
+    border: 1px solid;
+}
