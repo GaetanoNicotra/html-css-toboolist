@@ -1,6 +1,8 @@
 *{
     margin: 0;
 }
+
+/*intestazione*/
 body{
     background-color: rgb(236, 236, 236);
     font-family: Roboto;
@@ -20,13 +22,19 @@ h1{
     vertical-align: middle;
 }
 
-
 main{
     width: 500px;
     margin: 0 auto;
     background-color: rgb(255, 255, 255);
 }
 
+.contenitore1{
+    margin-top: 60px;
+
+}
+
+
+/*bottoni*/
 .botton-blu{
     background-color: rgb(6, 132, 250);
     color: #ffffff;
@@ -46,7 +54,12 @@ main{
     list-style-type: none;
     margin-bottom: 25px;
 }
+.spaziatura{
+    padding: 12px;
+}
 
+
+/*tag della lista*/
 .tag-blu{
     background-color: rgb(6, 132, 250);
     color: #ffffff;
@@ -54,9 +67,7 @@ main{
     padding: 6px 13px;
 }
 
-.spaziatura{
-    padding: 12px;
-}
+
 
 .tag-viola{
     background-color: rgb(125, 74, 207);
@@ -93,6 +104,7 @@ main{
     padding: 6px 13px;
 }
 
+/*cerchi colorarti*/
 .cerchio{
     color: green;
     border-radius: 50%;
@@ -109,7 +121,3 @@ main{
     border: 1px solid;
 }
 
-.contenitore1{
-    margin-top: 60px;
-    
-}
